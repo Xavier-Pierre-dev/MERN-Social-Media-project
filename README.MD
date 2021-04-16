@@ -1,4 +1,3 @@
-# MERN-Social-Media-project
 # 🚀 Javascript Full-stack 🚀
 
 
