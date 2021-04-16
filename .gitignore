@@ -1,0 +1,6 @@
+/node_modules
+/client/node_modules
+/config/.env
+/config/db.js
+/client/public/uploads/posts
+/client/public/uploads/profil
