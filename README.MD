@@ -1,3 +1,4 @@
+# MERN-Social-Media-project
 # 🚀 Javascript Full-stack 🚀
 
 
@@ -79,6 +80,4 @@ With some research i find GraphQL a lib wich allow us to use realtime database d
 
 So GraphQL will certainly be something that i will look into it and realise project using it in futur.  
 
-The way to handle organisation for a project based on : `client / server side`. # MERN-Social-Media-project
-# MERN-Social-Media-project
-# MERN-Social-Media-project
+The way to handle organisation for a project based on : `client / server side`. 
