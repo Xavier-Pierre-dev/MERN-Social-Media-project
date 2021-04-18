@@ -7,6 +7,7 @@
 * React
 * Express
 * MongoDB
+* Node.js
 * Redux
 * Socket
 * Realtime database
