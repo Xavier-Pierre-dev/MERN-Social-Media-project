@@ -12,7 +12,7 @@ router.post('/private', room_conversation_Controller.createRoom_private);
 
 
 
-//! TO DO 
+//message
 router.patch('/send-message/:id', room_conversation_Controller.sendMessage);
 router.patch('/edit-message/:id', room_conversation_Controller.editMessage);
 router.patch('/delete-message/:id', room_conversation_Controller.deleteMessage);
